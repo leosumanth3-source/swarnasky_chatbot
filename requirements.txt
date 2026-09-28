@@ -4,3 +4,10 @@ trafilatura
 lxml
 pydantic
 python-dotenv
+
+sentence-transformers
+qdrant-client
+groq
+
+fastapi
+uvicorn[standard]
