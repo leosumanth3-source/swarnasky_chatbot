@@ -692,12 +692,37 @@ class QdrantRetriever:
         limit: int,
     ) -> list[dict[str, Any]]:
         """
-        Perform semantic vector search.
+        Perform semantic vector search with detailed timing.
         """
+
+        import time
+
+        total_start = time.perf_counter()
+
+        # --------------------------------------------------------
+        # Query embedding
+        # --------------------------------------------------------
+
+        start = time.perf_counter()
 
         query_vector = self.embed_query(
             query
         )
+
+        embedding_time = (
+            time.perf_counter() - start
+        )
+
+        print(
+            f"[RETRIEVER TIMING] "
+            f"Query embedding: {embedding_time:.3f}s"
+        )
+
+        # --------------------------------------------------------
+        # Qdrant request
+        # --------------------------------------------------------
+
+        start = time.perf_counter()
 
         response = self.client.query_points(
             collection_name=self.collection_name,
@@ -706,6 +731,21 @@ class QdrantRetriever:
             with_payload=True,
             with_vectors=True,
         )
+
+        qdrant_time = (
+            time.perf_counter() - start
+        )
+
+        print(
+            f"[RETRIEVER TIMING] "
+            f"Qdrant query: {qdrant_time:.3f}s"
+        )
+
+        # --------------------------------------------------------
+        # Format results
+        # --------------------------------------------------------
+
+        start = time.perf_counter()
 
         points = getattr(
             response,
@@ -716,15 +756,28 @@ class QdrantRetriever:
         results: list[dict[str, Any]] = []
 
         for point in points:
-
-            result = self.format_point(
-                point
-            )
-
+            result = self.format_point(point)
             results.append(result)
 
-        return results
+        formatting_time = (
+            time.perf_counter() - start
+        )
 
+        total_time = (
+            time.perf_counter() - total_start
+        )
+
+        print(
+            f"[RETRIEVER TIMING] "
+            f"Formatting: {formatting_time:.3f}s"
+        )
+
+        print(
+            f"[RETRIEVER TIMING] "
+            f"Semantic search total: {total_time:.3f}s"
+        )
+
+        return results
     # ========================================================
     # SERVICE COVERAGE
     # ========================================================
