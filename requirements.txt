@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+trafilatura
+lxml
+pydantic
+python-dotenv
