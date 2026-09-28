@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Swarnasky AI Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="chat-app">
+
+        <!-- Header -->
+        <header class="chat-header">
+            <div class="brand">
+                <div class="brand-logo">S</div>
+
+                <div>
+                    <h1>Swarnasky AI</h1>
+                    <p>Swarnasky Technologies Assistant</p>
+                </div>
+            </div>
+
+            <div class="status">
+                <span class="status-dot"></span>
+                Online
+            </div>
+        </header>
+
+
+        <!-- Chat messages -->
+        <main
+            id="chatMessages"
+            class="chat-messages"
+            aria-live="polite"
+        >
+
+            <div class="message assistant">
+                <div class="avatar">S</div>
+
+                <div class="message-content">
+                    <div class="message-name">
+                        Swarnasky AI
+                    </div>
+
+                    <div class="message-bubble">
+                        Hi! 👋 I'm the Swarnasky AI assistant.
+                        Ask me anything about Swarnasky Technologies,
+                        our services, solutions, and company information.
+                    </div>
+                </div>
+            </div>
+
+        </main>
+
+
+        <!-- Input area -->
+        <footer class="chat-input-area">
+
+            <form id="chatForm" class="chat-form">
+
+                <input
+                    id="questionInput"
+                    type="text"
+                    placeholder="Ask something about Swarnasky..."
+                    autocomplete="off"
+                    maxlength="2000"
+                    required
+                >
+
+                <button
+                    id="sendButton"
+                    type="submit"
+                    aria-label="Send message"
+                >
+                    Send
+                </button>
+
+            </form>
+
+            <p class="input-note">
+                Answers are based on the Swarnasky knowledge base.
+            </p>
+
+        </footer>
+
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
