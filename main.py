@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 import time
 from pathlib import Path
 from uuid import uuid4
@@ -10,7 +11,7 @@ from pydantic import BaseModel, Field
 
 from pipelines.retreiver import QdrantRetriever
 from app.llm.client import GroqLLM
-
+from fastapi.middleware.cors import CORSMiddleware
 
 # ============================================================
 # FASTAPI APP
@@ -20,6 +21,23 @@ app = FastAPI(
     title="Swarnasky Chatbot API",
     description="RAG chatbot API for Swarnasky Technologies",
     version="1.2.0",
+)
+
+allowed_origins = [
+    origin.strip()
+    for origin in os.getenv(
+        "ALLOWED_ORIGINS",
+        "http://localhost:5500,http://127.0.0.1:5500"
+    ).split(",")
+    if origin.strip()
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=allowed_origins,
+    allow_credentials=False,
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["*"],
 )
 
 

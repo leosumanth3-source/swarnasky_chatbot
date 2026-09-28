@@ -3,7 +3,7 @@ const questionInput = document.getElementById("questionInput");
 const sendButton = document.getElementById("sendButton");
 const chatMessages = document.getElementById("chatMessages");
 
-const API_URL = "/chat";
+const API_URL = "https://swarnaskychatbot-production.up.railway.app/chat";
 
 
 // ---------------------------------------------------------
