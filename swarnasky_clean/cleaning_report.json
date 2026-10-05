@@ -1,0 +1,70 @@
+{
+  "cleaning_version": "1.1",
+  "completed_at": "2026-09-27T05:48:02.485974+00:00",
+  "input_directory": "/home/rishi/Documents/webscarpping2/swarnasky_raw",
+  "output_directory": "/home/rishi/Documents/webscarpping2/swarnasky_clean",
+  "pages_accepted": 12,
+  "pages_rejected": 4,
+  "repeated_text_candidates": [
+    {
+      "text": "see risk on your properties as it develops before it becomes a claim",
+      "page_count": 7
+    },
+    {
+      "text": "business problem",
+      "page_count": 7
+    },
+    {
+      "text": "swarnasky solution",
+      "page_count": 6
+    },
+    {
+      "text": "expected result",
+      "page_count": 6
+    },
+    {
+      "text": "automate claim intake catch fraud early and clear your backlog faster",
+      "page_count": 7
+    },
+    {
+      "text": "streamline operations with intelligent end to end claims and business workflow automation",
+      "page_count": 7
+    },
+    {
+      "text": "we design and build the portals apps and platforms your customers and brokers rely on",
+      "page_count": 7
+    },
+    {
+      "text": "move your core systems to the cloud so they scale stay secure and cost less to run",
+      "page_count": 7
+    },
+    {
+      "text": "inspect damage train adjusters and collaborate on site all in ar and vr",
+      "page_count": 7
+    },
+    {
+      "text": "tell us what you re dealing with and where you want to get to we ll tell you honestly whether this is the right next step",
+      "page_count": 6
+    }
+  ],
+  "rules": {
+    "remove_tags": [
+      "canvas",
+      "embed",
+      "iframe",
+      "noscript",
+      "object",
+      "script",
+      "source",
+      "style",
+      "svg",
+      "template",
+      "track"
+    ],
+    "minimum_page_text": 80,
+    "minimum_section_text": 25,
+    "duplicate_strategy": "conservative: duplicate detection is reported; source content is not silently deleted across pages",
+    "rewriting": "none",
+    "summarization": "none"
+  }
+}

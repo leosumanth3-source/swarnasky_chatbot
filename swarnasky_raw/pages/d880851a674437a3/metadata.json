@@ -1,0 +1,25 @@
+{
+  "url": "https://www.swarnasky.com/about",
+  "crawl_started_at": "2026-09-27T05:22:40.309421+00:00",
+  "status_code": 200,
+  "content_type": "text/html",
+  "final_url": "https://www.swarnasky.com/about",
+  "raw_bytes": 42917,
+  "rendered_bytes": 50740,
+  "raw_sha256": "f0f6134c600a3c136fcc4358443f851bc903d32ee083fce1177e445e114b67b5",
+  "rendered_sha256": "85ef1a91da375af9fff7c7fbb2ac6a68dd5c25797890f5fca4193abc463cfe04",
+  "discovered_links": [
+    "https://www.swarnasky.com/",
+    "https://www.swarnasky.com/about",
+    "https://www.swarnasky.com/career",
+    "https://www.swarnasky.com/case-studies",
+    "https://www.swarnasky.com/contact",
+    "https://www.swarnasky.com/services",
+    "https://www.swarnasky.com/team/10",
+    "https://www.swarnasky.com/team/5",
+    "https://www.swarnasky.com/team/6",
+    "https://www.swarnasky.com/team/7"
+  ],
+  "error": null,
+  "browser_final_url": "https://www.swarnasky.com/about"
+}

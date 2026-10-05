@@ -1,0 +1,27 @@
+{
+  "url": "https://www.swarnasky.com/services/insurance-intelligence",
+  "crawl_started_at": "2026-09-27T05:23:25.158547+00:00",
+  "status_code": 200,
+  "content_type": "text/html",
+  "final_url": "https://www.swarnasky.com/services/insurance-intelligence",
+  "raw_bytes": 40342,
+  "rendered_bytes": 35338,
+  "raw_sha256": "082ac9eed4c3f3eee2958c81bb5f6ee17ba726ffb8d4ba9f9b52f0b01cb72b88",
+  "rendered_sha256": "2ec3171f7c9e4e81b4506b49995b7cdbb5d5fcc66a7310a2e8ac80c22e9be662",
+  "discovered_links": [
+    "https://www.swarnasky.com/",
+    "https://www.swarnasky.com/about",
+    "https://www.swarnasky.com/career",
+    "https://www.swarnasky.com/case-studies",
+    "https://www.swarnasky.com/contact",
+    "https://www.swarnasky.com/services",
+    "https://www.swarnasky.com/services/claims-workflow-automation",
+    "https://www.swarnasky.com/services/cloud-core-modernization",
+    "https://www.swarnasky.com/services/connected-risk-solutions",
+    "https://www.swarnasky.com/services/digital-insurance-platforms",
+    "https://www.swarnasky.com/services/immersive-insurance-experiences",
+    "https://www.swarnasky.com/services/insurance-intelligence"
+  ],
+  "error": null,
+  "browser_final_url": "https://www.swarnasky.com/services/insurance-intelligence"
+}

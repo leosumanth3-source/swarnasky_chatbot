@@ -1,0 +1,14 @@
+{
+  "chunking_version": "2.0",
+  "strategy": "one cleaned section per chunk",
+  "source": "swarnasky_clean/pages/*/content.json",
+  "pages_processed": 12,
+  "sections_processed": 178,
+  "skipped_sections": 0,
+  "total_chunks": 178,
+  "total_words": 8774,
+  "min_chunk_words": 22,
+  "max_chunk_words": 363,
+  "average_chunk_words": 49.29,
+  "note": "No rewriting, summarization, or semantic splitting. The cleaner's existing rag_text is used as the primary chunk text."
+}

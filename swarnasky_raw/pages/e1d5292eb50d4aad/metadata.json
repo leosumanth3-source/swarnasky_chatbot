@@ -1,0 +1,14 @@
+{
+  "url": "https://www.swarnasky.com/team/7",
+  "crawl_started_at": "2026-09-27T05:23:36.584339+00:00",
+  "status_code": 403,
+  "content_type": "application/xml",
+  "final_url": "https://www.swarnasky.com/team/7",
+  "raw_bytes": 0,
+  "rendered_bytes": 2344,
+  "raw_sha256": null,
+  "rendered_sha256": "925c5bf6cb4ad04f1ab95a127310592f36c580cd22dfec70038fce52fc4113cf",
+  "discovered_links": [],
+  "error": null,
+  "browser_final_url": "https://www.swarnasky.com/team/7"
+}

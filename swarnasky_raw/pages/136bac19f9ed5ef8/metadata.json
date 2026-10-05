@@ -1,0 +1,27 @@
+{
+  "url": "https://www.swarnasky.com/services/connected-risk-solutions",
+  "crawl_started_at": "2026-09-27T05:23:13.181453+00:00",
+  "status_code": 200,
+  "content_type": "text/html",
+  "final_url": "https://www.swarnasky.com/services/connected-risk-solutions",
+  "raw_bytes": 39425,
+  "rendered_bytes": 34892,
+  "raw_sha256": "7314e8a499510832569db8e98d9fab66000d72fe178ed37f5e0353f4d7265599",
+  "rendered_sha256": "82ef3a4a3fd0d876aedf45161be25264cd7818a633a487ce57b54ef8111facda",
+  "discovered_links": [
+    "https://www.swarnasky.com/",
+    "https://www.swarnasky.com/about",
+    "https://www.swarnasky.com/career",
+    "https://www.swarnasky.com/case-studies",
+    "https://www.swarnasky.com/contact",
+    "https://www.swarnasky.com/services",
+    "https://www.swarnasky.com/services/claims-workflow-automation",
+    "https://www.swarnasky.com/services/cloud-core-modernization",
+    "https://www.swarnasky.com/services/connected-risk-solutions",
+    "https://www.swarnasky.com/services/digital-insurance-platforms",
+    "https://www.swarnasky.com/services/immersive-insurance-experiences",
+    "https://www.swarnasky.com/services/insurance-intelligence"
+  ],
+  "error": null,
+  "browser_final_url": "https://www.swarnasky.com/services/connected-risk-solutions"
+}

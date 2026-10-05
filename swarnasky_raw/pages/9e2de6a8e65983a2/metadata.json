@@ -1,0 +1,27 @@
+{
+  "url": "https://www.swarnasky.com/case-studies",
+  "crawl_started_at": "2026-09-27T05:22:56.069395+00:00",
+  "status_code": 200,
+  "content_type": "text/html",
+  "final_url": "https://www.swarnasky.com/case-studies",
+  "raw_bytes": 63099,
+  "rendered_bytes": 61403,
+  "raw_sha256": "a35e105435930ce4491d1e5e169dd794498c044854648926c7d973ef85321546",
+  "rendered_sha256": "077ac787888cafbcab09f682ac4e9287b9d88a6abe3e44f7d929c44a5f967e66",
+  "discovered_links": [
+    "https://www.swarnasky.com/",
+    "https://www.swarnasky.com/about",
+    "https://www.swarnasky.com/career",
+    "https://www.swarnasky.com/case-studies",
+    "https://www.swarnasky.com/contact",
+    "https://www.swarnasky.com/services",
+    "https://www.swarnasky.com/services/claims-workflow-automation",
+    "https://www.swarnasky.com/services/cloud-core-modernization",
+    "https://www.swarnasky.com/services/connected-risk-solutions",
+    "https://www.swarnasky.com/services/digital-insurance-platforms",
+    "https://www.swarnasky.com/services/immersive-insurance-experiences",
+    "https://www.swarnasky.com/services/insurance-intelligence"
+  ],
+  "error": null,
+  "browser_final_url": "https://www.swarnasky.com/case-studies"
+}

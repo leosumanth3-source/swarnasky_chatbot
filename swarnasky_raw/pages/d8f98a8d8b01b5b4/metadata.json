@@ -1,0 +1,21 @@
+{
+  "url": "https://www.swarnasky.com/career",
+  "crawl_started_at": "2026-09-27T05:22:48.533939+00:00",
+  "status_code": 200,
+  "content_type": "text/html",
+  "final_url": "https://www.swarnasky.com/career",
+  "raw_bytes": 42189,
+  "rendered_bytes": 60021,
+  "raw_sha256": "ba65c7b477d9b6aaf8286ab8af3cf7d3de4398e1440572ac8c9f323533035d7b",
+  "rendered_sha256": "0368db71f806171bf0ecacd0d1d1bfbefc6d7a274623035e697134febbe64036",
+  "discovered_links": [
+    "https://www.swarnasky.com/",
+    "https://www.swarnasky.com/about",
+    "https://www.swarnasky.com/career",
+    "https://www.swarnasky.com/case-studies",
+    "https://www.swarnasky.com/contact",
+    "https://www.swarnasky.com/services"
+  ],
+  "error": null,
+  "browser_final_url": "https://www.swarnasky.com/career"
+}

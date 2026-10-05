@@ -1,0 +1,68 @@
+{
+  "accepted": true,
+  "cleaning_version": "1.1",
+  "page_id": "5f176b0ff655b2dc",
+  "url": "https://www.swarnasky.com/contact",
+  "final_url": "https://www.swarnasky.com/contact",
+  "title": "Contact — Swarnasky Technologies",
+  "sections": [
+    {
+      "section_id": 0,
+      "heading": "Tell us what needs to work better",
+      "level": 1,
+      "section_path": [
+        "Tell us what needs to work better"
+      ],
+      "paragraphs": [
+        "Tell us what's not working, what a good outcome looks like, and anything holding you back. That's enough for us to make the first call worth your time."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Contact — Swarnasky Technologies\nSection: Tell us what needs to work better\n\nTell us what's not working, what a good outcome looks like, and anything holding you back. That's enough for us to make the first call worth your time.",
+      "text_length": 234
+    },
+    {
+      "section_id": 1,
+      "heading": "Let's start with your challenge.",
+      "level": 2,
+      "section_path": [
+        "Tell us what needs to work better",
+        "Let's start with your challenge."
+      ],
+      "paragraphs": [
+        "You do not need a complete specification. A clear description of the problem and the result you want is enough to begin.",
+        "What happens next"
+      ],
+      "list_items": [
+        "0 1 We review the challenge and identify the most relevant capability.",
+        "0 2 A consultant discusses context, constraints, and desired outcomes with you.",
+        "0 3 If there is a fit, we recommend a focused assessment or a clear delivery next step."
+      ],
+      "tables": [],
+      "rag_text": "Page: Contact — Swarnasky Technologies\nSection: Tell us what needs to work better > Let's start with your challenge.\n\nYou do not need a complete specification. A clear description of the problem and the result you want is enough to begin.\nWhat happens next\n\n- 0 1 We review the challenge and identify the most relevant capability.\n- 0 2 A consultant discusses context, constraints, and desired outcomes with you.\n- 0 3 If there is a fit, we recommend a focused assessment or a clear delivery next step.",
+      "text_length": 502
+    }
+  ],
+  "links": [
+    {
+      "text": "Send Email info@swarnasky.com",
+      "url": "mailto:info@swarnasky.com"
+    },
+    {
+      "text": "Call +91 8019367555",
+      "url": "tel:+918019367555"
+    }
+  ],
+  "full_text": "Tell us what needs to work better Tell us what's not working, what a good outcome looks like, and anything holding you back. That's enough for us to make the first call worth your time. Let's start with your challenge. You do not need a complete specification. A clear description of the problem and the result you want is enough to begin. What happens next 0 1 We review the challenge and identify the most relevant capability. 0 2 A consultant discusses context, constraints, and desired outcomes with you. 0 3 If there is a fit, we recommend a focused assessment or a clear delivery next step.",
+  "quality": {
+    "text_length": 596,
+    "section_count": 2,
+    "link_count": 2,
+    "word_count": 107
+  },
+  "source": {
+    "html_file": "swarnasky_raw/pages/5f176b0ff655b2dc/rendered.html",
+    "source_sha256": "b53811f3317c9955d20b23830fd976c9ca2efadce9d493a452b61b10dcfd8b39",
+    "status_code": 200
+  }
+}

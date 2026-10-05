@@ -1,0 +1,27 @@
+{
+  "url": "https://www.swarnasky.com/services/digital-insurance-platforms",
+  "crawl_started_at": "2026-09-27T05:23:15.851599+00:00",
+  "status_code": 200,
+  "content_type": "text/html",
+  "final_url": "https://www.swarnasky.com/services/digital-insurance-platforms",
+  "raw_bytes": 39643,
+  "rendered_bytes": 35028,
+  "raw_sha256": "063744dc33eb3361c6b5f0843b78d87d65cc6d2b3a78bfedbaa5691612130939",
+  "rendered_sha256": "152bf231ee05f7562506d09fe565d5cbdd3628975988865d2ad095b3df8a1391",
+  "discovered_links": [
+    "https://www.swarnasky.com/",
+    "https://www.swarnasky.com/about",
+    "https://www.swarnasky.com/career",
+    "https://www.swarnasky.com/case-studies",
+    "https://www.swarnasky.com/contact",
+    "https://www.swarnasky.com/services",
+    "https://www.swarnasky.com/services/claims-workflow-automation",
+    "https://www.swarnasky.com/services/cloud-core-modernization",
+    "https://www.swarnasky.com/services/connected-risk-solutions",
+    "https://www.swarnasky.com/services/digital-insurance-platforms",
+    "https://www.swarnasky.com/services/immersive-insurance-experiences",
+    "https://www.swarnasky.com/services/insurance-intelligence"
+  ],
+  "error": null,
+  "browser_final_url": "https://www.swarnasky.com/services/digital-insurance-platforms"
+}

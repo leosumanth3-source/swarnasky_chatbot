@@ -1,0 +1,318 @@
+{
+  "accepted": true,
+  "cleaning_version": "1.1",
+  "page_id": "57fb4e3b5b8a3542",
+  "url": "https://www.swarnasky.com/services/insurance-intelligence",
+  "final_url": "https://www.swarnasky.com/services/insurance-intelligence",
+  "title": "Insurance Intelligence — Swarnasky Technologies",
+  "sections": [
+    {
+      "section_id": 0,
+      "heading": "Intelligent Claims & Underwriting",
+      "level": 1,
+      "section_path": [
+        "Intelligent Claims & Underwriting"
+      ],
+      "paragraphs": [
+        "Automate claim intake, catch fraud early, and clear your backlog faster."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting\n\nAutomate claim intake, catch fraud early, and clear your backlog faster.",
+      "text_length": 170
+    },
+    {
+      "section_id": 1,
+      "heading": "AI-driven claims and operational intelligence .",
+      "level": 2,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence ."
+      ],
+      "paragraphs": [
+        "We read your policy documents and claim submissions, pull out the details that matter, and sort each claim automatically. Routine claims move straight to a decision. Anything unusual gets flagged so your adjusters spend their time on the cases that need real judgment."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence .\n\nWe read your policy documents and claim submissions, pull out the details that matter, and sort each claim automatically. Routine claims move straight to a decision. Anything unusual gets flagged so your adjusters spend their time on the cases that need real judgment.",
+      "text_length": 416
+    },
+    {
+      "section_id": 2,
+      "heading": "Automated Document Extraction",
+      "level": 4,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence .",
+        "Automated Document Extraction"
+      ],
+      "paragraphs": [
+        "Uses advanced OCR and deep learning models to extract structured data from medical bills, repair estimates, and police reports, eliminating manual data entry."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence . > Automated Document Extraction\n\nUses advanced OCR and deep learning models to extract structured data from medical bills, repair estimates, and police reports, eliminating manual data entry.",
+      "text_length": 338
+    },
+    {
+      "section_id": 3,
+      "heading": "Automated Triaging & Routing",
+      "level": 4,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence .",
+        "Automated Document Extraction",
+        "Automated Triaging & Routing"
+      ],
+      "paragraphs": [
+        "Scores claims by complexity and severity, instantly fast-tracking low-risk claims for automatic payment while routing complex cases to the right specialized adjuster."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence . > Automated Document Extraction > Automated Triaging & Routing\n\nScores claims by complexity and severity, instantly fast-tracking low-risk claims for automatic payment while routing complex cases to the right specialized adjuster.",
+      "text_length": 377
+    },
+    {
+      "section_id": 4,
+      "heading": "Advanced Fraud & Anomaly Detection",
+      "level": 4,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence .",
+        "Automated Document Extraction",
+        "Advanced Fraud & Anomaly Detection"
+      ],
+      "paragraphs": [
+        "Analyzes claims in real-time against historical patterns, highlighting billing duplicates, inflated estimates, and suspicious activity before payouts occur."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence . > Automated Document Extraction > Advanced Fraud & Anomaly Detection\n\nAnalyzes claims in real-time against historical patterns, highlighting billing duplicates, inflated estimates, and suspicious activity before payouts occur.",
+      "text_length": 373
+    },
+    {
+      "section_id": 5,
+      "heading": "Adjuster Copilot Dashboard",
+      "level": 4,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence .",
+        "Automated Document Extraction",
+        "Adjuster Copilot Dashboard"
+      ],
+      "paragraphs": [
+        "Empowers claims adjusters with AI-generated summaries, policy clause matches, liability scoring, and key document highlights inside a unified portal.",
+        "Business Problem"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence . > Automated Document Extraction > Adjuster Copilot Dashboard\n\nEmpowers claims adjusters with AI-generated summaries, policy clause matches, liability scoring, and key document highlights inside a unified portal.\nBusiness Problem",
+      "text_length": 375
+    },
+    {
+      "section_id": 6,
+      "heading": "What's slowing you down",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence .",
+        "What's slowing you down"
+      ],
+      "paragraphs": [
+        "Your team reviews every medical record, repair estimate, and damage photo by hand. Queues build up, costs climb, payouts run late, and your customers feel it.",
+        "Swarnasky Solution"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence . > What's slowing you down\n\nYour team reviews every medical record, repair estimate, and damage photo by hand. Queues build up, costs climb, payouts run late, and your customers feel it.\nSwarnasky Solution",
+      "text_length": 351
+    },
+    {
+      "section_id": 7,
+      "heading": "How we solve it",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence .",
+        "How we solve it"
+      ],
+      "paragraphs": [
+        "We connect to your existing claims systems and let them keep running. Each claim comes in, we structure the evidence, check coverage, and route it in seconds. Simple claims get fast-tracked; complex ones reach an adjuster with a ready-made summary.",
+        "Expected Result"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence . > How we solve it\n\nWe connect to your existing claims systems and let them keep running. Each claim comes in, we structure the evidence, check coverage, and route it in seconds. Simple claims get fast-tracked; complex ones reach an adjuster with a ready-made summary.\nExpected Result",
+      "text_length": 430
+    },
+    {
+      "section_id": 8,
+      "heading": "What you gain",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "AI-driven claims and operational intelligence .",
+        "What you gain"
+      ],
+      "paragraphs": [
+        "Achieve up to a 70% reduction in cycle times, minimize manual review effort by 40%, ensure 99% data extraction accuracy, and flag potential fraud anomalies before payout."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > AI-driven claims and operational intelligence . > What you gain\n\nAchieve up to a 70% reduction in cycle times, minimize manual review effort by 40%, ensure 99% data extraction accuracy, and flag potential fraud anomalies before payout.",
+      "text_length": 334
+    },
+    {
+      "section_id": 9,
+      "heading": "Claims & Workflow Automation",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "Other services you may need.",
+        "Claims & Workflow Automation"
+      ],
+      "paragraphs": [
+        "Streamline operations with intelligent end-to-end claims and business workflow automation."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > Other services you may need. > Claims & Workflow Automation\n\nStreamline operations with intelligent end-to-end claims and business workflow automation.",
+      "text_length": 250
+    },
+    {
+      "section_id": 10,
+      "heading": "Connected Risk Solutions",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "Other services you may need.",
+        "Connected Risk Solutions"
+      ],
+      "paragraphs": [
+        "See risk on your properties as it develops — before it becomes a claim."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > Other services you may need. > Connected Risk Solutions\n\nSee risk on your properties as it develops — before it becomes a claim.",
+      "text_length": 227
+    },
+    {
+      "section_id": 11,
+      "heading": "Digital Insurance Platforms",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "Other services you may need.",
+        "Digital Insurance Platforms"
+      ],
+      "paragraphs": [
+        "We design and build the portals, apps, and platforms your customers and brokers rely on."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > Other services you may need. > Digital Insurance Platforms\n\nWe design and build the portals, apps, and platforms your customers and brokers rely on.",
+      "text_length": 247
+    },
+    {
+      "section_id": 12,
+      "heading": "Cloud & Core Modernization",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "Other services you may need.",
+        "Cloud & Core Modernization"
+      ],
+      "paragraphs": [
+        "Move your core systems to the cloud so they scale, stay secure, and cost less to run."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > Other services you may need. > Cloud & Core Modernization\n\nMove your core systems to the cloud so they scale, stay secure, and cost less to run.",
+      "text_length": 243
+    },
+    {
+      "section_id": 13,
+      "heading": "Immersive Insurance Experiences",
+      "level": 3,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "Other services you may need.",
+        "Immersive Insurance Experiences"
+      ],
+      "paragraphs": [
+        "Inspect damage, train adjusters, and collaborate on-site — all in AR and VR.",
+        "Next step"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > Other services you may need. > Immersive Insurance Experiences\n\nInspect damage, train adjusters, and collaborate on-site — all in AR and VR.\nNext step",
+      "text_length": 249
+    },
+    {
+      "section_id": 14,
+      "heading": "Have a related business challenge?",
+      "level": 2,
+      "section_path": [
+        "Intelligent Claims & Underwriting",
+        "Have a related business challenge?"
+      ],
+      "paragraphs": [
+        "Tell us what you're dealing with and where you want to get to. We'll tell you honestly whether this is the right next step."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Insurance Intelligence — Swarnasky Technologies\nSection: Intelligent Claims & Underwriting > Have a related business challenge?\n\nTell us what you're dealing with and where you want to get to. We'll tell you honestly whether this is the right next step.",
+      "text_length": 258
+    }
+  ],
+  "links": [
+    {
+      "text": "Discuss your project",
+      "url": "/contact"
+    },
+    {
+      "text": "View all services",
+      "url": "/services"
+    },
+    {
+      "text": "Claims & Workflow Automation Streamline operations with intelligent end-to-end claims and business workflow automation. Learn more",
+      "url": "/services/claims-workflow-automation"
+    },
+    {
+      "text": "Connected Risk Solutions See risk on your properties as it develops — before it becomes a claim. Learn more",
+      "url": "/services/connected-risk-solutions"
+    },
+    {
+      "text": "Digital Insurance Platforms We design and build the portals, apps, and platforms your customers and brokers rely on. Learn more",
+      "url": "/services/digital-insurance-platforms"
+    },
+    {
+      "text": "Cloud & Core Modernization Move your core systems to the cloud so they scale, stay secure, and cost less to run. Learn more",
+      "url": "/services/cloud-core-modernization"
+    },
+    {
+      "text": "Immersive Insurance Experiences Inspect damage, train adjusters, and collaborate on-site — all in AR and VR. Learn more",
+      "url": "/services/immersive-insurance-experiences"
+    },
+    {
+      "text": "All services",
+      "url": "/services"
+    },
+    {
+      "text": "Discuss your challenge",
+      "url": "/contact"
+    }
+  ],
+  "full_text": "Intelligent Claims & Underwriting Automate claim intake, catch fraud early, and clear your backlog faster. AI-driven claims and operational intelligence . We read your policy documents and claim submissions, pull out the details that matter, and sort each claim automatically. Routine claims move straight to a decision. Anything unusual gets flagged so your adjusters spend their time on the cases that need real judgment. Automated Document Extraction Uses advanced OCR and deep learning models to extract structured data from medical bills, repair estimates, and police reports, eliminating manual data entry. Automated Triaging & Routing Scores claims by complexity and severity, instantly fast-tracking low-risk claims for automatic payment while routing complex cases to the right specialized adjuster. Advanced Fraud & Anomaly Detection Analyzes claims in real-time against historical patterns, highlighting billing duplicates, inflated estimates, and suspicious activity before payouts occur. Adjuster Copilot Dashboard Empowers claims adjusters with AI-generated summaries, policy clause matches, liability scoring, and key document highlights inside a unified portal. Business Problem What's slowing you down Your team reviews every medical record, repair estimate, and damage photo by hand. Queues build up, costs climb, payouts run late, and your customers feel it. Swarnasky Solution How we solve it We connect to your existing claims systems and let them keep running. Each claim comes in, we structure the evidence, check coverage, and route it in seconds. Simple claims get fast-tracked; complex ones reach an adjuster with a ready-made summary. Expected Result What you gain Achieve up to a 70% reduction in cycle times, minimize manual review effort by 40%, ensure 99% data extraction accuracy, and flag potential fraud anomalies before payout. Claims & Workflow Automation Streamline operations with intelligent end-to-end claims and business workflow automation. Connected Risk Solutions See risk on your properties as it develops — before it becomes a claim. Digital Insurance Platforms We design and build the portals, apps, and platforms your customers and brokers rely on. Cloud & Core Modernization Move your core systems to the cloud so they scale, stay secure, and cost less to run. Immersive Insurance Experiences Inspect damage, train adjusters, and collaborate on-site — all in AR and VR. Next step Have a related business challenge? Tell us what you're dealing with and where you want to get to. We'll tell you honestly whether this is the right next step.",
+  "quality": {
+    "text_length": 2587,
+    "section_count": 15,
+    "link_count": 9,
+    "word_count": 388
+  },
+  "source": {
+    "html_file": "swarnasky_raw/pages/57fb4e3b5b8a3542/rendered.html",
+    "source_sha256": "2ec3171f7c9e4e81b4506b49995b7cdbb5d5fcc66a7310a2e8ac80c22e9be662",
+    "status_code": 200
+  }
+}

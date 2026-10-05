@@ -1,0 +1,318 @@
+{
+  "accepted": true,
+  "cleaning_version": "1.1",
+  "page_id": "e6386a74a3798f0b",
+  "url": "https://www.swarnasky.com/services/cloud-core-modernization",
+  "final_url": "https://www.swarnasky.com/services/cloud-core-modernization",
+  "title": "Cloud & Core Modernization — Swarnasky Technologies",
+  "sections": [
+    {
+      "section_id": 0,
+      "heading": "Scale Without Infrastructure Complexity",
+      "level": 1,
+      "section_path": [
+        "Scale Without Infrastructure Complexity"
+      ],
+      "paragraphs": [
+        "Move your core systems to the cloud so they scale, stay secure, and cost less to run."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity\n\nMove your core systems to the cloud so they scale, stay secure, and cost less to run.",
+      "text_length": 193
+    },
+    {
+      "section_id": 1,
+      "heading": "Build a resilient foundation for digital growth .",
+      "level": 2,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth ."
+      ],
+      "paragraphs": [
+        "We modernize infrastructure and applications for secure, observable, cost-aware cloud operation. Our teams support the full journey from assessment and migration through optimization and managed reliability."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth .\n\nWe modernize infrastructure and applications for secure, observable, cost-aware cloud operation. Our teams support the full journey from assessment and migration through optimization and managed reliability.",
+      "text_length": 367
+    },
+    {
+      "section_id": 2,
+      "heading": "Cloud Architecture Design",
+      "level": 4,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth .",
+        "Cloud Architecture Design"
+      ],
+      "paragraphs": [
+        "Architect highly resilient cloud environments on AWS, Azure, and GCP designed for elastic scaling and failover protection."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth . > Cloud Architecture Design\n\nArchitect highly resilient cloud environments on AWS, Azure, and GCP designed for elastic scaling and failover protection.",
+      "text_length": 310
+    },
+    {
+      "section_id": 3,
+      "heading": "Zero-Downtime Migration",
+      "level": 4,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth .",
+        "Cloud Architecture Design",
+        "Zero-Downtime Migration"
+      ],
+      "paragraphs": [
+        "Migrate legacy databases, microservices, and monolithic applications to the cloud with minimal operational interruption."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth . > Cloud Architecture Design > Zero-Downtime Migration\n\nMigrate legacy databases, microservices, and monolithic applications to the cloud with minimal operational interruption.",
+      "text_length": 334
+    },
+    {
+      "section_id": 4,
+      "heading": "Infrastructure as Code",
+      "level": 4,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth .",
+        "Cloud Architecture Design",
+        "Infrastructure as Code"
+      ],
+      "paragraphs": [
+        "Deploy and manage all cloud resources programmatically with Terraform to ensure absolute consistency across environments."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth . > Cloud Architecture Design > Infrastructure as Code\n\nDeploy and manage all cloud resources programmatically with Terraform to ensure absolute consistency across environments.",
+      "text_length": 334
+    },
+    {
+      "section_id": 5,
+      "heading": "End-to-End Observability",
+      "level": 4,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth .",
+        "Cloud Architecture Design",
+        "End-to-End Observability"
+      ],
+      "paragraphs": [
+        "Implement centralized logging, tracing, and metric alerts to diagnose latency issues and track system health in real-time.",
+        "Business Problem"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth . > Cloud Architecture Design > End-to-End Observability\n\nImplement centralized logging, tracing, and metric alerts to diagnose latency issues and track system health in real-time.\nBusiness Problem",
+      "text_length": 354
+    },
+    {
+      "section_id": 6,
+      "heading": "What's slowing you down",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth .",
+        "What's slowing you down"
+      ],
+      "paragraphs": [
+        "Aging core systems slow you down, break more often, and make it hard to see what you're spending or grow with confidence.",
+        "Swarnasky Solution"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth . > What's slowing you down\n\nAging core systems slow you down, break more often, and make it hard to see what you're spending or grow with confidence.\nSwarnasky Solution",
+      "text_length": 326
+    },
+    {
+      "section_id": 7,
+      "heading": "How we solve it",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth .",
+        "How we solve it"
+      ],
+      "paragraphs": [
+        "Swarnasky designs secure cloud foundations, plans controlled migrations, improves observability, and continuously optimizes reliability and spend.",
+        "Expected Result"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth . > How we solve it\n\nSwarnasky designs secure cloud foundations, plans controlled migrations, improves observability, and continuously optimizes reliability and spend.\nExpected Result",
+      "text_length": 340
+    },
+    {
+      "section_id": 8,
+      "heading": "What you gain",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Build a resilient foundation for digital growth .",
+        "What you gain"
+      ],
+      "paragraphs": [
+        "Lower infrastructure waste, stronger availability, improved security, faster scaling, and clearer operational control."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Build a resilient foundation for digital growth . > What you gain\n\nLower infrastructure waste, stronger availability, improved security, faster scaling, and clearer operational control.",
+      "text_length": 294
+    },
+    {
+      "section_id": 9,
+      "heading": "Insurance Intelligence",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Other services you may need.",
+        "Insurance Intelligence"
+      ],
+      "paragraphs": [
+        "Automate claim intake, catch fraud early, and clear your backlog faster."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Other services you may need. > Insurance Intelligence\n\nAutomate claim intake, catch fraud early, and clear your backlog faster.",
+      "text_length": 236
+    },
+    {
+      "section_id": 10,
+      "heading": "Claims & Workflow Automation",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Other services you may need.",
+        "Claims & Workflow Automation"
+      ],
+      "paragraphs": [
+        "Streamline operations with intelligent end-to-end claims and business workflow automation."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Other services you may need. > Claims & Workflow Automation\n\nStreamline operations with intelligent end-to-end claims and business workflow automation.",
+      "text_length": 260
+    },
+    {
+      "section_id": 11,
+      "heading": "Connected Risk Solutions",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Other services you may need.",
+        "Connected Risk Solutions"
+      ],
+      "paragraphs": [
+        "See risk on your properties as it develops — before it becomes a claim."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Other services you may need. > Connected Risk Solutions\n\nSee risk on your properties as it develops — before it becomes a claim.",
+      "text_length": 237
+    },
+    {
+      "section_id": 12,
+      "heading": "Digital Insurance Platforms",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Other services you may need.",
+        "Digital Insurance Platforms"
+      ],
+      "paragraphs": [
+        "We design and build the portals, apps, and platforms your customers and brokers rely on."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Other services you may need. > Digital Insurance Platforms\n\nWe design and build the portals, apps, and platforms your customers and brokers rely on.",
+      "text_length": 257
+    },
+    {
+      "section_id": 13,
+      "heading": "Immersive Insurance Experiences",
+      "level": 3,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Other services you may need.",
+        "Immersive Insurance Experiences"
+      ],
+      "paragraphs": [
+        "Inspect damage, train adjusters, and collaborate on-site — all in AR and VR.",
+        "Next step"
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Other services you may need. > Immersive Insurance Experiences\n\nInspect damage, train adjusters, and collaborate on-site — all in AR and VR.\nNext step",
+      "text_length": 259
+    },
+    {
+      "section_id": 14,
+      "heading": "Have a related business challenge?",
+      "level": 2,
+      "section_path": [
+        "Scale Without Infrastructure Complexity",
+        "Have a related business challenge?"
+      ],
+      "paragraphs": [
+        "Tell us what you're dealing with and where you want to get to. We'll tell you honestly whether this is the right next step."
+      ],
+      "list_items": [],
+      "tables": [],
+      "rag_text": "Page: Cloud & Core Modernization — Swarnasky Technologies\nSection: Scale Without Infrastructure Complexity > Have a related business challenge?\n\nTell us what you're dealing with and where you want to get to. We'll tell you honestly whether this is the right next step.",
+      "text_length": 268
+    }
+  ],
+  "links": [
+    {
+      "text": "Discuss your project",
+      "url": "/contact"
+    },
+    {
+      "text": "View all services",
+      "url": "/services"
+    },
+    {
+      "text": "Insurance Intelligence Automate claim intake, catch fraud early, and clear your backlog faster. Learn more",
+      "url": "/services/insurance-intelligence"
+    },
+    {
+      "text": "Claims & Workflow Automation Streamline operations with intelligent end-to-end claims and business workflow automation. Learn more",
+      "url": "/services/claims-workflow-automation"
+    },
+    {
+      "text": "Connected Risk Solutions See risk on your properties as it develops — before it becomes a claim. Learn more",
+      "url": "/services/connected-risk-solutions"
+    },
+    {
+      "text": "Digital Insurance Platforms We design and build the portals, apps, and platforms your customers and brokers rely on. Learn more",
+      "url": "/services/digital-insurance-platforms"
+    },
+    {
+      "text": "Immersive Insurance Experiences Inspect damage, train adjusters, and collaborate on-site — all in AR and VR. Learn more",
+      "url": "/services/immersive-insurance-experiences"
+    },
+    {
+      "text": "All services",
+      "url": "/services"
+    },
+    {
+      "text": "Discuss your challenge",
+      "url": "/contact"
+    }
+  ],
+  "full_text": "Scale Without Infrastructure Complexity Move your core systems to the cloud so they scale, stay secure, and cost less to run. Build a resilient foundation for digital growth . We modernize infrastructure and applications for secure, observable, cost-aware cloud operation. Our teams support the full journey from assessment and migration through optimization and managed reliability. Cloud Architecture Design Architect highly resilient cloud environments on AWS, Azure, and GCP designed for elastic scaling and failover protection. Zero-Downtime Migration Migrate legacy databases, microservices, and monolithic applications to the cloud with minimal operational interruption. Infrastructure as Code Deploy and manage all cloud resources programmatically with Terraform to ensure absolute consistency across environments. End-to-End Observability Implement centralized logging, tracing, and metric alerts to diagnose latency issues and track system health in real-time. Business Problem What's slowing you down Aging core systems slow you down, break more often, and make it hard to see what you're spending or grow with confidence. Swarnasky Solution How we solve it Swarnasky designs secure cloud foundations, plans controlled migrations, improves observability, and continuously optimizes reliability and spend. Expected Result What you gain Lower infrastructure waste, stronger availability, improved security, faster scaling, and clearer operational control. Insurance Intelligence Automate claim intake, catch fraud early, and clear your backlog faster. Claims & Workflow Automation Streamline operations with intelligent end-to-end claims and business workflow automation. Connected Risk Solutions See risk on your properties as it develops — before it becomes a claim. Digital Insurance Platforms We design and build the portals, apps, and platforms your customers and brokers rely on. Immersive Insurance Experiences Inspect damage, train adjusters, and collaborate on-site — all in AR and VR. Next step Have a related business challenge? Tell us what you're dealing with and where you want to get to. We'll tell you honestly whether this is the right next step.",
+  "quality": {
+    "text_length": 2172,
+    "section_count": 15,
+    "link_count": 9,
+    "word_count": 305
+  },
+  "source": {
+    "html_file": "swarnasky_raw/pages/e6386a74a3798f0b/rendered.html",
+    "source_sha256": "5d4ee3dc12c752bb4ad7efd05410e01f09c20ae78ace7fbcea7b549372ba8485",
+    "status_code": 200
+  }
+}
